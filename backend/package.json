@@ -5,8 +5,13 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+<<<<<<< HEAD
     "dev": "nodemon index.js",
     "start": "node src/index.js",
+=======
+    "dev": "node index.js",
+    "start": "node index.js",
+>>>>>>> 73c291709547e2a5423e7f52e47ee8c9ad34e074
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
