@@ -9,6 +9,7 @@ import { persistStore } from 'redux-persist'
 import { PersistGate } from 'redux-persist/integration/react'
 
 const persistor = persistStore(store);
+export const index="http://localhost:8080/"
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
