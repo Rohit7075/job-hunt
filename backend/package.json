@@ -5,15 +5,12 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-<<<<<<< HEAD
-    "dev": "nodemon index.js",
-    "start": "node src/index.js",
-=======
+
+
 
     "dev": "node index.js",
     "start": "node index.js",
 
->>>>>>> a4714225d1cffe13b2781bdf32de0037cfe6c0af
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
